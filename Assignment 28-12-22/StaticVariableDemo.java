@@ -1,5 +1,6 @@
 package oops;
 public class StaticVariableDemo {
+	// initializing static variable count 
 	static int count = 0;
 	public StaticVariableDemo(){
 		count++;
